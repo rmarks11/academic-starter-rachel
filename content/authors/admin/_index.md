@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Rachel Marks
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student in Texts & Technology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Central Florida
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Rachel Marks is a first year student at the University of Central Florida in the Texts & Technology PhD. Her research focuses on ...
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- LGBT Representation
+- Fan Studies 
+- Online Discourse 
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Texts & Technology
+    institution: University of Central Florida
+    year: 2024
+  - course: MA in Rhetoric & Composition 
+    institution: University of Central Florida
+    year: 2020
+  - course: Graduate Certificate in Professional Writing
+    institution: University of Central Florida
+    year: 2017
+  - course: BA in Theatre Arts
+    institution: Rollins College
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
