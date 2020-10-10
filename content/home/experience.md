@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Orlando, FL"
   date_start = "2017-08-01"
-  date_end = "2018-05-01"
+  date_end = "2018-05-02"
   description = """Peer tutor and writing consultant for the University Writing Center."""
 
 [[experience]]
