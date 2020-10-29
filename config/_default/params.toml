@@ -107,7 +107,7 @@ directions = "Offics Hours currently being held virtually over Zoom"
 office_hours = ["Wednesday 1:30 to 04:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "calendly.com/rachelkmarks"
+appointment_url = "https://calendly.com/rachelkmarks"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
