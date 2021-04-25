@@ -4,7 +4,7 @@ Here, I outline how Javascript is being used on my personal website: [rachelmark
 
 ## Animated Scrolling
 
-In the first video, [JS scroll capture](JS_scroll_capture.mov), I demonstrate how javascript is being used to automatically scoll down my site when clicking different tabs in the top menu. My code is calling out to an outside Javascript library called JQuery, in order to animate the scroll top characteristic of my site. 
+In the first video, [JS Scroll Capture](JS_scroll_capture.mov), I demonstrate how Javascript is being used to automatically scoll down my site when clicking different tabs in the top menu. My code is calling out to an outside Javascript library called JQuery, in order to animate the scroll top characteristic of my site. 
 
 ## Changing Themes
 
